@@ -1,0 +1,15 @@
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe.config
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csprojAssemblyReference.cache
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Form1.resources
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Properties.Resources.resources
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.cache
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.exe
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\bin\Debug\nunit.framework.dll
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\bin\Debug\nunit.framework.pdb
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\bin\Debug\nunit.framework.xml
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.CopyComplete
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\bin\Debug\CheckDayMonthYear.dll
+C:\Users\Jim\source\repos\DateTimeChecker\DateTimeChecker\bin\Debug\CheckDayMonthYear.pdb
